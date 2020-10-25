@@ -8,7 +8,7 @@
                                
 <br />
 <br />
-Hi, I'm Sahil Jain, a Data Scientist from India. Apart from coding you can find me playing chess, badminton, Among us or binging shows.
+Hi, I'm Sahil Jain and I work as a Data Scientist at [Wizikey](https://wizikey.com/). Apart from coding, you can find me posting memes on twitter when I'm bored or playing chess/badminton/table-tennis/video games. A few more things about me:
 
 - 🔭 I’m currently working on NLP/Deep Learning Projects.
 - 👯 I’m looking to collaborate on Kaggle Competitions.
