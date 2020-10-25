@@ -4,6 +4,8 @@
 </a>
 <a href="https://www.linkedin.com/in/sahil-jain-717827142/">
   <img align="left" alt="Sahil's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+                               
 <br />
 
 Hi, I'm Sahil Jain, a Data Scientist from India. Apart from coding you can find me playing chess, badminton, Among us or binging shows.
