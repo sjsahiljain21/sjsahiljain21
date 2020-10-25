@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+## Hi, I'm Sahil! 👋
 
 - 🔭 I’m currently working on NLP/Deep Learning Projects.
 - 👯 I’m looking to collaborate on Kaggle Competitions.
