@@ -12,7 +12,6 @@
 Hi, I'm Sahil Jain and I work as a Data Analyst at [Wizikey](https://wizikey.com/). Apart from coding, you can find me posting memes on twitter when I'm bored or playing chess/badminton/table-tennis/video games. A few more things about me:
 <br />
 
-- 🔭 I’m currently working on NLP/Deep Learning Projects.
-- 👯 I’m looking to collaborate on Kaggle Competitions.
+- 🔭 I’m currently working on NLP Projects.
 - 💬 Ask me about anything. I'm happy to help :)
 - ⚡ Fun fact: I can solve a Rubik's Cube under 90 seconds!
