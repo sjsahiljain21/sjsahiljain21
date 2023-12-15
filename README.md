@@ -9,4 +9,4 @@
 <br />
 <br />
 
-Hi, I'm Sahil Jain and I work as a Data Scientist at [Wizikey](https://wizikey.com/). Apart from coding, you can find me posting memes on twitter when I'm bored or playing chess or badminton or table-tennis or video games. Currently working on - https://twitter.com/guwahatinews_
+Hi, I'm Sahil Jain and I work as a Data Scientist at [Wizikey](https://wizikey.com/). Apart from coding, you can find me posting memes on twitter when I'm bored or playing chess or badminton or table-tennis or video games. Currently working on - [Guwahati News](https://twitter.com/guwahatinews_)
